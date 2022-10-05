@@ -1,1 +1,0 @@
-In this project, we worked with apartment prices from Buenos Aires, Argentina.  The goal was to build a machine learning model that predicts apartment prices in Buenos Aires . The notebook covers scikit library, building data pipeline, linear regression and creating a  dashboard for interacting with completed model.
